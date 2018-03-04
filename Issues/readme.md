@@ -5,3 +5,4 @@
 * [KatzBackOffModelImplementationInR](https://github.com/ThachNgocTran/KatzBackOffModelImplementationInR)
 * [Creating an n gram](https://cran.r-project.org/web/packages/ngram/vignettes/ngram-guide.pdf)
 * [katzs-backoff-model-implementation-in-r](https://thachtranerc.wordpress.com/2016/04/12/katzs-backoff-model-implementation-in-r/)
+* [Some cool data science stuff for learning](https://amunategui.github.io/)
