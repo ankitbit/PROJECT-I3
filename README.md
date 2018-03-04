@@ -1,6 +1,7 @@
 # PROJECT-I3 : (Intelligent Intent Inference)
 PROJECT I3 is a name given to the development of a software module for analysis of intent of a sentence based on extracted intelligence from Open Source 
 
+* [Read this text mining in R Book)
 ## Objectives:
 * Create a script that can search the web (google) to get web results in form of most relevant links based ona keyword
 * Create a script that can be used for finding the meaning of a particular word
